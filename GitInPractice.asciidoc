@@ -1,8 +1,4 @@
-
 clone5
-
-clone3
-
 clone4
 
 clone2
