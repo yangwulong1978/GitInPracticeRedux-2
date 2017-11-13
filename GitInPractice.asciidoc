@@ -1,6 +1,7 @@
-<<<<<<< HEAD
+clone 33
+
 clone3
-=======
+
 clone4
 
 >>>>>>> be977f8f6a940bdcba4598b5ebf90e8dc2b4bb83
