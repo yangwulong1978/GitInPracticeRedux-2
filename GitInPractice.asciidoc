@@ -6,7 +6,7 @@ in master
 
 
 in chapter-two merge4
->>>>>>> chapter-two
+
 in chapter-two merge3
 
 in chapter-two merge2
